@@ -1,0 +1,6 @@
+name: edgeR
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - bioconductor-edger
