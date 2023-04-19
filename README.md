@@ -1,1 +1,1 @@
-# SI
+# rnaseq-snakemake
